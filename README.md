@@ -1,6 +1,6 @@
 # -lungsheba
 AI-powered Chest X-ray Abnormality Detector for Bangladesh
-# 🫁 LungSheba | লাংশেবা
+# 🫁 LungSheba | লাং সেবা
 ### AI-powered Chest X-ray Abnormality Detector
 
 [![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-HuggingFace-yellow)](https://huggingface.co/spaces/TheRealShaswata/lungsheba)
