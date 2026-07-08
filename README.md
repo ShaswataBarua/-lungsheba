@@ -41,4 +41,4 @@ Always consult a qualified doctor.
 - NIH ChestX-ray14 — 112,120 frontal X-ray images, 14 disease labels
 
 ## 👨‍💻 Team
-**Bytestorm** — SciBlitz AI Challenge 2026, IEEE Student Branch CUET
+**Bytestorm** — SciBlitz AI Challenge 2026
