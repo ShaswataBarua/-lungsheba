@@ -53,7 +53,7 @@ CONDITION_INFO = {
     },
 }
 
-st.title("🫁 LungSheba | লাংশেবা")
+st.title("🫁 LungSheba | লাংসেবা")
 st.subheader("AI-powered Chest X-ray Abnormality Detector")
 
 st.warning("""
