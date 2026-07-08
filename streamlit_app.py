@@ -4,7 +4,7 @@ import torch
 from transformers import AutoImageProcessor, AutoModelForImageClassification
 
 st.set_page_config(
-    page_title="LungSheba | লাংশেবা",
+    page_title="LungSheba | লাং সেবা",
     page_icon="🫁",
     layout="centered"
 )
