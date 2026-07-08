@@ -1,0 +1,8 @@
+   streamlit==1.32.0
+   transformers
+   torch
+   torchvision
+   pillow
+   numpy
+   huggingface_hub
+   setuptools
